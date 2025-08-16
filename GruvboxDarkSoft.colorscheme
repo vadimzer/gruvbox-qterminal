@@ -1,0 +1,82 @@
+[General]
+Description=Gruvbox Dark Soft
+
+[Background]
+; Gruvbox bg0_s #32302f
+Color=50,48,47
+
+[BackgroundIntense]
+; Gruvbox bg1 #3c3836
+Color=60,56,54
+
+[Foreground]
+; Gruvbox fg0 #fbf1c7
+Color=251,241,199
+
+[ForegroundIntense]
+; Gruvbox fg1 #ebdbb2
+Color=235,219,178
+
+[Color0]
+; Gruvbox bg #282828
+Color=40,40,40
+
+[Color0Intense]
+; Gruvbox gray #928374
+Color=146,131,116
+
+[Color1]
+; Gruvbox red #cc241d
+Color=204,36,29
+
+[Color1Intense]
+; Gruvbox red #fb4934
+Color=251,73,52
+
+[Color2]
+; Gruvbox green #98971a
+Color=152,151,26
+
+[Color2Intense]
+; Gruvbox green #b8bb26
+Color=184,187,38
+
+[Color3]
+; Gruvbox yellow #d79921
+Color=215,153,33
+
+[Color3Intense]
+; Gruvbox yellow #fabd2f
+Color=250,189,47
+
+[Color4]
+; Gruvbox blue #458588
+Color=69,133,136
+
+[Color4Intense]
+; Gruvbox blue #83a598
+Color=131,165,152
+
+[Color5]
+; Gruvbox purple #b16286
+Color=177,98,34
+
+[Color5Intense]
+; Gruvbox purple #d3869b
+Color=211,134,155
+
+[Color6]
+; Gruvbox aqua #689d6a
+Color=104,157,106
+
+[Color6Intense]
+; Gruvbox aqua #8ec07c
+Color=142,192,124
+
+[Color7]
+; Gruvbox gray #a89984
+Color=168,153,132
+
+[Color7Intense]
+; Gruvbox fg #ebdbb2
+Color=235,219,178
