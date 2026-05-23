@@ -1,6 +1,13 @@
 MIT License
 
-Copyright (c) 2024 vadimzer
+Copyright (c) 2014-2025 Pavel Pertsev (morhetz) — original Gruvbox color scheme
+Copyright (c) 2024-2026 Vadim Permiakov - QTerminal port adaptation
+
+This project is a derivative work based on the original Gruvbox color scheme:
+https://github.com/morhetz/gruvbox
+
+The original Gruvbox project is licensed under the MIT/X11 license.
+This port retains the same license terms.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
