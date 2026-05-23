@@ -1,0 +1,13 @@
+Source: gruvbox-qterminal
+Section: x11
+Priority: optional
+Maintainer: Vadim Permiakov <39555254+vadimzer@users.noreply.github.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
+Homepage: https://github.com/vadimzer/gruvbox-qterminal
+
+Package: gruvbox-qterminal
+Architecture: all
+Depends: qterminal (>= 2.1.0)
+Description: Gruvbox color schemes for QTerminal
+ This package provides Gruvbox color schemes for QTerminal.
