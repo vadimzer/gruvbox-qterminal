@@ -1,5 +1,21 @@
-# gruvbox-qterminal
+# Gruvbox color schemes for QTerminal
 
-Gruvbox color scheme for qterminal
+Color schemes for QTerminal based on the [Gruvbox](https://github.com/morhetz/gruvbox) palette.
 
-To install a color theme for QTerminal, add the ColorScheme.colorscheme files to the `/usr/share/qtermwidget5/color-schemes/` directory.
+## Install
+
+- download colorsheme files
+
+- add the *.colorscheme files to the `/usr/share/qtermwidget6/color-schemes/` directory.
+
+```bash
+sudo cp *.colorscheme /usr/share/qtermwidget6/color-schemes/
+```
+
+## Activate color scheme
+
+1. Start QTerminal
+
+2. Open menu: Session -> Preferences...
+
+3. Choose **Color sheme**
